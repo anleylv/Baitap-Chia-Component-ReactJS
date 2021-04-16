@@ -1,0 +1,19 @@
+1/ cài đặt project :
+  npx create-react-app ten-app
+2/ chạy project :
+  npm run start
+3/ Flow code cua3 ReactJS:
+index.html
+=> index.js
+=> App.js
+4/ReactJS không đọc được html, mà chỉ đọc đc jsx
+5/JSX giúp cho chúng ta viết html và js vào một file duy nhất
+6/ lợi ích và tiêu chí để chia components: 
+- tái sử dụng (ưu tiên)
+- dễ quản lý và mở rộng ứng dụng
+7/ 2 loại component: 
+- dạng class 
+- dạng function
+8/ Để biết lưu state ở component nào:
+- Component đó phải chứa các nút xử lý sự kiện
+- Component đó phải chứa UI để hiển thị ra màn hình 
